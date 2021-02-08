@@ -1,0 +1,24 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Vinicius Maclters Correa de Souza",
+      "avatar_url": "https://google.com",
+      "birth": 1204416000000,
+      "graduation": "Doutorado",
+      "type": "À distância",
+      "services": "Matematica e fodasse",
+      "created_at": 1612267256776
+    },
+    {
+      "id": 2,
+      "name": "Ziguele Souza",
+      "avatar_url": "https://google.com",
+      "birth": 1117929600000,
+      "graduation": "Ensino Superior Completo",
+      "type": "Presencial",
+      "services": "Historia e Shurek",
+      "created_at": 1612267307578
+    }
+  ]
+}
