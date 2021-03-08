@@ -1,24 +1,46 @@
 {
-  "teachers": [
+  "members": [
     {
-      "id": 1,
-      "name": "Vinicius Maclters Correa de Souza",
-      "avatar_url": "https://google.com",
-      "birth": 1204416000000,
-      "graduation": "Doutorado",
-      "type": "À distância",
-      "services": "Matematica e fodasse",
-      "created_at": 1612267256776
+      "avatar_url": "https://images.unsplash.com/photo-1553531580-a000ac8df244?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80",
+      "name": "Elaine Batista Correa de Sousa",
+      "email": "bianca.gv@hotmail.com",
+      "birth": 562723200000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "90",
+      "height": "162",
+      "id": 1
     },
     {
       "id": 2,
-      "name": "Ziguele Souza",
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "name": "Matheus Maclters Correa de Sousa",
+      "email": "zinpele@ggg.com",
+      "birth": 871084800000,
+      "gender": "M",
+      "blood": "B-",
+      "weight": "100",
+      "height": "186"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "name": "Vinicius Maclters Correa de Souza",
+      "avatar_url": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=653&q=80",
+      "birth": 783648000000,
+      "services": "musculação, crossfit",
+      "gender": "M",
+      "created_at": 1614794627189
+    },
+    {
+      "id": 2,
+      "name": "Bianca Cardoso da Silva Porto ",
       "avatar_url": "https://google.com",
-      "birth": 1117929600000,
-      "graduation": "Ensino Superior Completo",
-      "type": "Presencial",
-      "services": "Historia e Shurek",
-      "created_at": 1612267307578
+      "birth": 865814400000,
+      "services": "musculação, crossfit",
+      "gender": "F",
+      "created_at": 1615223183558
     }
   ]
 }
